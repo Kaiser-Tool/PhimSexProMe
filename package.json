@@ -1,6 +1,6 @@
 {
-  "name": "huydev@vn/huykaiser",
-  "version": "1.0.1",
+  "name": "fca-huydev",
+  "version": "1.1.1",
   "description": "My Name's Nguyen Van Huy And I'm From Vietnam I Was Born And Raised In Tra Vinh Currently I'm In Ho Chi Minh City",
   "scripts": {
     "test": "mocha",
@@ -11,7 +11,14 @@
     "type": "git",
     "url": "git://admincsc.me"
   },
-  "keywords": [],
+  "keywords": [
+    "Fca",
+    "huykaiser-dev",
+    "fca bot",
+    "fca",
+    "fca-huykaiser",
+    "Fca-huykaiser-remake"
+  ],
   "bugs": {
     "url": "https://admincsc.me/"
   },
