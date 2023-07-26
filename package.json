@@ -1,6 +1,6 @@
 {
-  "name": "fca-huydev",
-  "version": "1.1.1",
+  "name": "dca-huykaiser",
+  "version": "1.0.2",
   "description": "My Name's Nguyen Van Huy And I'm From Vietnam I Was Born And Raised In Tra Vinh Currently I'm In Ho Chi Minh City",
   "scripts": {
     "test": "mocha",
